@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Mission Demolition.sln"
+    "dotnet.defaultSolution": "Mission-Demolition.sln"
 }
